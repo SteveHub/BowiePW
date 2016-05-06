@@ -28,7 +28,7 @@ class Config {
     // ------------------------------------------------------------------------
     // General Settings
     // ------------------------------------------------------------------------
-    const BASE_URL      = 'http://url-to-easyappointments-directory';
+    const BASE_URL      = ''
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
