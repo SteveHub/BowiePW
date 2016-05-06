@@ -28,7 +28,7 @@ class Config {
     // ------------------------------------------------------------------------
     // General Settings
     // ------------------------------------------------------------------------
-    const BASE_URL      = ''
+    const BASE_URL= ;
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -38,7 +38,7 @@ class Config {
     const DB_HOST       = 'localhost';
     const DB_NAME       = 'easyappt';
     const DB_USERNAME   = 'easyappt';
-    const DB_PASSWORD   = '';
+    const DB_PASSWORD= ;
 
     // ------------------------------------------------------------------------
     // Google Calendar Sync
