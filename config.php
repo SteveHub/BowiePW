@@ -35,9 +35,9 @@ class Config {
     // ------------------------------------------------------------------------
     // Database Settings
     // ------------------------------------------------------------------------
-    const DB_HOST       = '';
-    const DB_NAME       = '';
-    const DB_USERNAME   = '';
+    const DB_HOST       = 'localhost';
+    const DB_NAME       = 'easyappt';
+    const DB_USERNAME   = 'easyappt';
     const DB_PASSWORD   = '';
 
     // ------------------------------------------------------------------------
